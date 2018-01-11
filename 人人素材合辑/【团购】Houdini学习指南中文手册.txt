@@ -1,0 +1,19 @@
+  【团购】Houdini学习指南中文手册 合集
+本套学习指南合集是Houdini12版本的最新学习手册，分别为基础、建模、动画、粒子、动力学、材质渲染、合成。内容囊括了Houdini12的几乎全部内容，是学习Houdini12的最佳教程。  
+
+包含以下内容:
+Houdini12学习指南-材质渲染
+Houdini12学习指南-动画
+Houdini12学习指南-动力学
+Houdini12学习指南-合成
+Houdini12学习指南-基础
+Houdini12学习指南-建模
+Houdini12学习指南-粒子
+
+
+更多介绍：http://blog.sina.com.cn/s/blog_e910e78c0101d067.html
+
+
+
+
+
